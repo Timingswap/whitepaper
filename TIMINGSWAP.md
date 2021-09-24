@@ -31,4 +31,6 @@ Disclaimers
 
 This document is for reference only. It does not constitute an investment proposal or an offer or solicitation to buy or sell any investment, nor should it be used to assess the merits of making any investment decision. It should not be used for accounting, legal or tax advice or investment advice. This article only reflects the author's current views. The opinions reflected here may change and will not be updated.
 
-![image](https://github.com/Timingswap/whitepaper/blob/main/TIMINGSWAP%20F.png)
+<div align=center>
+<img src="https://github.com/Timingswap/whitepaper/blob/main/TIMINGSWAP%20F.png"  width="1050" height="420"/> 
+</div>
