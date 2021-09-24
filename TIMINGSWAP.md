@@ -1,8 +1,8 @@
 Abstract
 
 This technical white paper explains some of the new design decisions behind the Timingswap contract ( A New Kind Of Intelligent Decentralized Exchange). The core transaction function of Timingswap comes from the factory and router contract of uniswap v2. During the development of Timingswap, the fee collection proportion of feeto has been adjusted, increasing it from 1 / 6 to 1 / 2. All transaction fees shall be entered into the TimingGuarder contract address (i.e. feeto address) and cannot be changed. Compared with uniswap v2, Timingswap adds the transaction volume statistics function and Timingtoken distribution function of token-eth transaction pairs. Therefore, the following text only describes the functions added by Timingswap compared with uniswap v2. See the uniswap v2 white paper for other similar functions. 
-<div style="text-align:center">
-<img src="https://github.com/Timingswap/whitepaper/blob/main/TimingSwap%20128*128.png"  width="180" height="105"/> 
+<div align=center>
+<img src="https://github.com/Timingswap/whitepaper/blob/main/TimingSwap%20128*128.png"  width="105" height="105"/> 
 </div>
 Introduction
 
